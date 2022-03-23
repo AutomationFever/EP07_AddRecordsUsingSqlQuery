@@ -1,0 +1,9 @@
+Query for creating table : -
+create table SalesData
+(
+  [EmployeeName] varchar(max),
+  SalesYear int,
+  Region varchar(max),	
+  Product varchar(max),
+  SalesAmount int
+)
